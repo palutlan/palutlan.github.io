@@ -15,7 +15,7 @@ website: palutlan.github.io
 darkmode: false
 
 # Social links
-twitter_username: pramodpalutla
+# twitter_username: pramodpalutla
 github_username:  palutlan
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
@@ -71,6 +71,21 @@ content:
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           This is a banking app made for Midfirst Bank for their new digital bank 'Monifi'. This was a project that took more than 20 months from get-go to go live. It was an Agile Scrum environment and was a fun experience.
+      - layout: top-middle
+        title: Super awesome project
+        link: https://apps.apple.com/us/app/monifi-mobile-banking/id1525138651
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          This is a banking app made for Midfirst Bank for their new digital bank 'Monifi'. This was a pr
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
