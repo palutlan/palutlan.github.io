@@ -48,7 +48,7 @@ linkedin_username: pramodpalutla
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Sai and I'm an iOS Developer. I have worked at a number of companies gaining teamwork and technical skills. 
+  Hi, my name's Sai and I'm an iOS Developer with 6+ years of development experience. 
 
   I am most skilled in: <mark>Swift</mark> and <mark>Eating Pizza</mark>
 
@@ -97,7 +97,7 @@ content:
         sub_title: Software Engineer
         caption: November 2018 - December 2021
         quote: >
-          Performed my duties as an iOS Developer
+        iOS Developer
         description: | # this will include new lines to allow paragraphs
             Worked as an iOS developer for banking apps. Had the chance to work in a Agile-Scrum environment. Used Swift and Objective-C on the apps that contained legacy code. Developed watchOS app extension for banking apps.
       - layout: left
@@ -107,7 +107,7 @@ content:
         sub_title: Software Engineer
         caption: August 2017 - November 2018
         quote: >
-          Performed my duties as an iOS Developer
+        iOS Developer
         description: | # this will include new lines to allow paragraphs
             First company that i worked for. Used Swift and Objective-C on the apps that contained legacy code. Developed event tech apps for ticketing, networking and checkin at events. 
 
