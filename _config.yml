@@ -134,7 +134,9 @@ content:
       - Formula 1 and motorsports
       - Gaming
 
-      
+  - title: CIS-641 Term Project
+    layout: text
+    content: Notes app
       
 
 # Footer
