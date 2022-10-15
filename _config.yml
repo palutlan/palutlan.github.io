@@ -135,6 +135,8 @@ content:
       - Gaming
 
   - title: Term Project CIS - 641 System Analysis and Design
+    layout: text
+    content: Notes app
       
 
 # Footer
