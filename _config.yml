@@ -97,7 +97,7 @@ content:
         sub_title: Software Engineer
         caption: November 2018 - December 2021
         quote: >
-        iOS Developer
+        
         description: | # this will include new lines to allow paragraphs
             Worked as an iOS developer for banking apps. Had the chance to work in a Agile-Scrum environment. Used Swift and Objective-C on the apps that contained legacy code. Developed watchOS app extension for banking apps.
       - layout: left
@@ -107,7 +107,7 @@ content:
         sub_title: Software Engineer
         caption: August 2017 - November 2018
         quote: >
-        iOS Developer
+    
         description: | # this will include new lines to allow paragraphs
             First company that i worked for. Used Swift and Objective-C on the apps that contained legacy code. Developed event tech apps for ticketing, networking and checkin at events. 
 
@@ -134,9 +134,7 @@ content:
       - Formula 1 and motorsports
       - Gaming
 
-  - title: Term Project CIS - 641 System Analysis and Design
-    layout: text
-    content: Notes app
+      
       
 
 # Footer
